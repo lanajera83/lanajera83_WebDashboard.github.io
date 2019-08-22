@@ -1,0 +1,28 @@
+body {background-color: rgb(240, 240, 247);}
+
+/* Box Class */
+.box {
+    margin-top: 20px; 
+    margin-bottom: 62px; 
+    padding: 10px 20px 15px; 
+    color:black;
+    background-color: white; 
+  }
+
+/* Footer */
+footer{
+    background-color: #666666; 
+    border-top-style: solid; 
+    border-top-width: 5px; 
+    border-top-color: 	#5bc0de;
+    color: white; 
+    min-height: 40px; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px; 
+    text-align: center; 
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    padding-top: 15px; 
+    }
